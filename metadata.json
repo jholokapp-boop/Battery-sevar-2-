@@ -1,0 +1,8 @@
+{
+  "name": "Battery Saver",
+  "description": "Smart battery monitor and turbo saver with live power telemetry, app consumption analytics, battery health, and optimization tools",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
